@@ -16,5 +16,24 @@
         "hitechgeek5b96cf1a": {}
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hitechgeek-dev-210411-authRole",
+      "UnauthRoleArn": "arn:aws:iam::469062196017:role/amplify-hitechgeek-dev-210411-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::469062196017:role/amplify-hitechgeek-dev-210411-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hitechgeek-dev-210411-deployment",
+      "UnauthRoleName": "amplify-hitechgeek-dev-210411-unauthRole",
+      "StackName": "amplify-hitechgeek-dev-210411",
+      "StackId": "arn:aws:cloudformation:us-east-1:469062196017:stack/amplify-hitechgeek-dev-210411/6cf08df0-8d92-11ee-a16c-0a49fe43e7ef",
+      "AmplifyAppId": "dgm8ufl1hsce5"
+    },
+    "categories": {
+      "auth": {
+        "hitechgeek5b96cf1a": {},
+        "hitechgeekd30a8cd2": {}
+      }
+    }
   }
 }
